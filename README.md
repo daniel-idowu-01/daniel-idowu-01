@@ -32,5 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-idowu-01&show_icons=true&locale=en" alt="daniel-idowu-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-idowu-01&" alt="daniel-idowu-01" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=daniel-idowu-01&theme=dark" alt="GitHub Streak" /></a>
