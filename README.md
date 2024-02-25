@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://github.com/daniel-idowu-01)
 
 <h1 align="center">Hi 👋, I'm Idowu Daniel</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer and fullstack enthusiast</h3>
 
 <img align='right' width='400' alt='animated gif' src='https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?pid=ImgDet&rs=1' />
 
@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **a web app that integrates chatgpt to our daily social media applications**
 
-- 🌱 I’m currently learning **React Native** as I want to add mobile development to my skills
+- 🌱 I’m currently learning **Backend Development** as I aim to be a fullstack develope
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 💬 Ask me about **HTML semantics, advanced CSS, Javascript, Data Structures and Algorithm, React, Tailwind, APIs, Frontend Development**
+- 💬 Ask me about **Data Structures and Algorithm,  APIs, Frontend Development, Server-side web development**
 
 - 📫 How to reach me **danielidowu414@gmail.com**
 
-- ⚡ Fun fact **I love to play games, football and watch movies**
+- ⚡ Fun fact **Listening to music while coding makes me 2x more productive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
