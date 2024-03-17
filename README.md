@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a web app that integrates chatgpt to our daily social media applications**
 
-- 🌱 I’m currently learning **Backend Development** as I aim to be a fullstack develope
+- 🌱 I’m currently learning **Backend Development** as I aim to be a fullstack developer
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
