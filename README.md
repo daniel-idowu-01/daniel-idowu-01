@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://github.com/daniel-idowu-01)
 
 <h1 align="center">Hi 👋, I'm Idowu Daniel</h1>
-<h3 align="center">A passionate frontend developer and fullstack enthusiast</h3>
+<h3 align="center">A passionate fullstack enthusiast</h3>
 
 <img align='right' width='400' alt='animated gif' src='https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?pid=ImgDet&rs=1' />
 
