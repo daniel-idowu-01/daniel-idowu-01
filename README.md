@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-idowu-01&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-idowu-01" /> </p>
 
-- 🔭 I’m currently working on **a web app that integrates chatgpt to our daily social media applications**
+- 🔭 I’m currently working on **an event ticketing web application for both online and physical events**
 
 - 🌱 I’m currently learning **Backend Development** as I aim to be a fullstack developer
 
