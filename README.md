@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [GitDocs](https://getgitdocs.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://danielidowu.netlify.app/](https://danielidowu.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://danielidowu.vercel.app/)
 
 - 💬 Ask me about **Data Structures and Algorithm, Leetcode**
 
