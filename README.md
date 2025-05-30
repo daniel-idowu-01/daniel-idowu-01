@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [InkQuill](https://inkquill.vercel.app/)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on [GitDocs](https://getgitdocs.netlify.app/)
 
