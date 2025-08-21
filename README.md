@@ -39,7 +39,7 @@
 ![Cohere](https://img.shields.io/badge/Cohere-1E1E1E?style=for-the-badge&logo=cohere&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=2A5ADA)
 
-# 🗄️ Databases
+## 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -55,7 +55,7 @@
 ![Jest](https://img.shields.io/badge/Jest-1E1E1E?style=for-the-badge&logo=jest&logoColor=C21325)
 ![Supertest](https://img.shields.io/badge/Supertest-1E1E1E?style=for-the-badge&logo=testcafe&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=daniel-idowu-01&theme=gruvbox&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=daniel-idowu-01&theme=gruvbox&include_all_commits=true&count_private=true&show_icons=true&locale=en)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daniel-idowu-01&theme=gruvbox)
