@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A dedicated backend developer building scalable and efficient solutions</h3>
 
-- 🔭 I’m currently working on [InkQuill](https://inkquill.vercel.app/)
+- 🔭 I’m currently working on [VirtualFit](https://ai-virtualfit.netlify.app/)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on [GitDocs](https://getgitdocs.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://danielidowu.vercel.app/](https://danielidowu.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Website](https://danielidowu.vercel.app/)
 
 - 💬 Ask me about **Machine Learning, Design Patterns, Data Structures and Algorithm, Leetcode**
 
