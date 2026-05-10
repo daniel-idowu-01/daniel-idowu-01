@@ -98,7 +98,7 @@ Automated documentation generator that converts GitHub repositories into structu
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-idowu-01&theme=gruvbox&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-idowu-01&theme=gruvbox&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
