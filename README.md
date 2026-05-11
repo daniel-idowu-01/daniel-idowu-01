@@ -35,13 +35,13 @@ Distributed orchestration backend for routing AI tasks, managing contextual memo
 
 ---
 
-### Referral System
+### DexterDB
 
-Production-oriented affiliate backend with automated commission processing, payout workflows, audit logging, and tier-based progression.
+Lightweight TypeScript ORM and query builder focused on schema management, query abstraction, and developer-friendly database workflows.
 
-**Focus:** business automation, background processing, scalable APIs
+**Focus:** database tooling, query generation, schema modeling, developer infrastructure
 
-**Stack:** NestJS, MongoDB, Redis, Docker
+**Stack:** TypeScript, Node.js, SQL, PostgreSQL
 
 ---
 
