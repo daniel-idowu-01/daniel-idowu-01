@@ -8,108 +8,95 @@ Backend Engineer building distributed systems, AI infrastructure, and production
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Backend engineer focused on scalable architecture, workflow orchestration, and high-performance backend systems.
+Backend engineer focused on distributed systems, workflow orchestration, and production infrastructure.
 
-I enjoy building systems involving:
+Currently building systems around:
 - event-driven workflows
-- AI orchestration pipelines
-- retrieval systems
-- background job processing
-- scalable APIs
+- queue-based processing
+- retrieval pipelines
+- AI orchestration
 - backend observability
 
----
-
-## Current Focus
-
-- Distributed backend systems
-- AI infrastructure tooling
-- Event-driven architecture
-- Retrieval systems and orchestration
-- Monitoring and observability
+Production experience improving API latency, automating business workflows, and scaling backend operations.
 
 ---
 
-## Selected Projects
+## 🛠️ Selected Projects
 
 ### YAAS — AI Orchestration Infrastructure
-Multi-agent backend platform with contextual memory, task routing, vector search, and workflow orchestration.
 
-**Stack:** Node.js, FastAPI, LangChain, Pinecone, Redis, HuggingFace
+Distributed orchestration backend for routing AI tasks, managing contextual memory, and coordinating asynchronous workflows across multiple services.
+
+**Focus:** task routing, vector retrieval, background workers, orchestration pipelines
+
+**Stack:** Node.js, FastAPI, Redis, LangChain, Pinecone
 
 ---
 
 ### Referral System
-Production-oriented affiliate backend with automated commission processing, tier progression, payouts, and audit logging.
+
+Production-oriented affiliate backend with automated commission processing, payout workflows, audit logging, and tier-based progression.
+
+**Focus:** business automation, background processing, scalable APIs
 
 **Stack:** NestJS, MongoDB, Redis, Docker
 
 ---
 
 ### Research Paper Analyzer
+
 RAG pipeline for semantic search and academic paper analysis using embeddings and vector indexing.
+
+**Focus:** retrieval systems, semantic search, document processing
 
 **Stack:** Next.js, LangChain, Pinecone, OpenAI
 
 ---
 
 ### GitDocs
+
 Automated documentation generator that converts GitHub repositories into structured technical documentation.
+
+**Focus:** repository parsing, automation workflows, GitHub integrations
 
 **Stack:** JavaScript, GitHub API
 
 ---
 
-## Engineering Interests
+## ⚡ What I Care About
 
-- Queue-based processing systems
-- Distributed workflows
-- Retrieval-augmented generation (RAG)
-- Backend reliability and performance
-- Monitoring and observability
-- API architecture and scalability
-
----
-
-## Core Stack
-
-### Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![NestJS](https://img.shields.io/badge/Nest.js-1E1E1E?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-### Infrastructure & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
-![Redis](https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-1E1E1E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-
-### AI Infrastructure
-![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=2A5ADA)
-![Pinecone](https://img.shields.io/badge/Pinecone-1E1E1E?style=for-the-badge&logo=pinecone&logoColor=00AEEF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1E1E1E?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+- Designing reliable backend systems
+- Building scalable async workflows
+- API performance and observability
+- Distributed processing pipelines
+- Production-focused architecture
 
 ---
 
-## GitHub Stats
+## 🧰 Core Stack
+
+**Backend:** TypeScript • Node.js • NestJS • FastAPI
+
+**Infrastructure:** PostgreSQL • Redis • Docker • AWS
+
+**AI Infrastructure:** LangChain • Pinecone • Vector Search • RAG Pipelines
+
+---
+
+## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-idowu-01&theme=gruvbox&show_icons=true&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-idowu-01&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-idowu-01&theme=gruvbox&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/daniel-idowu" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
@@ -121,4 +108,5 @@ Automated documentation generator that converts GitHub repositories into structu
 <a href="mailto:danielidowu414@gmail.com">
 <img align="center" src="https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
+
 </p>
