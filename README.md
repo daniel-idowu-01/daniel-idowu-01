@@ -3,7 +3,7 @@
 <h1 align="center">Daniel Idowu</h1>
 
 <h3 align="center">
-Backend Engineer building distributed systems, AI infrastructure, and production-grade backend services.
+Fullstack Engineer building distributed systems, AI infrastructure, and production-grade backend services.
 </h3>
 
 ---
