@@ -10,7 +10,7 @@ Fullstack Engineer building distributed systems, AI infrastructure, and producti
 
 ## 🚀 About Me
 
-Backend engineer focused on distributed systems, workflow orchestration, and production infrastructure.
+Fullstack engineer focused on distributed systems, workflow orchestration, and production infrastructure.
 
 Currently building systems around:
 - event-driven workflows
@@ -67,7 +67,7 @@ Automated documentation generator that converts GitHub repositories into structu
 
 ## ⚡ What I Care About
 
-- Designing reliable backend systems
+- Designing reliable frontend and backend systems
 - Building scalable async workflows
 - API performance and observability
 - Distributed processing pipelines
@@ -76,6 +76,8 @@ Automated documentation generator that converts GitHub repositories into structu
 ---
 
 ## 🧰 Core Stack
+
+**Frontend:** React • NextJS
 
 **Backend:** TypeScript • Node.js • NestJS • FastAPI
 
