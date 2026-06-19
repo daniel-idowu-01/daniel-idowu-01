@@ -55,16 +55,6 @@ RAG pipeline for semantic search and academic paper analysis using embeddings an
 
 ---
 
-### GitDocs
-
-Automated documentation generator that converts GitHub repositories into structured technical documentation.
-
-**Focus:** repository parsing, automation workflows, GitHub integrations
-
-**Stack:** JavaScript, GitHub API
-
----
-
 ## ⚡ What I Care About
 
 - Designing reliable frontend and backend systems
