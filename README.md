@@ -50,7 +50,3 @@ Most of my work lives at the intersection of **distributed systems**, **fintech 
 </p>
 
 ---
-
-<p align="center">
-  First Class B.Sc. Computer Science · Bowen University · IBM Outstanding Performance Award
-</p>
