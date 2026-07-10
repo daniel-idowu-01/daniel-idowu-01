@@ -30,7 +30,7 @@ Most of my work lives at the intersection of **fintech infrastructure**, and **A
 
 | Layer | Tools |
 |---|---|
-| **Languages** | Python · TypeScript · JavaScript · Java |
+| **Languages** |  TypeScript · JavaScript · Java · Python |
 | **Backend** | Node.js · NestJS · FastAPI · Spring Boot · Express |
 | **Frontend** | React · Next.js |
 | **AI/ML** | LangChain · Pinecone · HuggingFace · Gemini AI · RAG |
