@@ -24,8 +24,6 @@ I build backend systems that handle the hard parts — compliance layers, audit 
 
 Most of my work lives at the intersection of **distributed systems**, **fintech infrastructure**, and **AI-powered backends**. I care about the gap between *it works* and *it works under load, without anyone babysitting it*.
 
-Currently: Technical Team Lead at Culate Wears · First Class CS graduate · building in public.
-
 ---
 
 ## Core Stack
