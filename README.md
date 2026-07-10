@@ -20,9 +20,9 @@
 
 ---
 
-I build backend systems that handle the hard parts — compliance layers, audit trails, async pipelines, multi-agent orchestration, and the kind of infrastructure that quietly keeps things running at scale.
+I build backend systems that handle the hard parts: compliance layers, audit trails, async pipelines, multi-agent orchestration, and the kind of infrastructure that quietly keeps things running at scale.
 
-Most of my work lives at the intersection of **distributed systems**, **fintech infrastructure**, and **AI-powered backends**. I care about the gap between *it works* and *it works under load, without anyone babysitting it*.
+Most of my work lives at the intersection of **fintech infrastructure**, and **AI-powered backends**. I care about the gap between *it works* and *it works under load, without anyone babysitting it*.
 
 ---
 
