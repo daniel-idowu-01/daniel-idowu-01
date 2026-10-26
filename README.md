@@ -3,7 +3,7 @@
 <h1 align="center">Daniel Idowu</h1>
 
 <p align="center">
-  Backend Engineer · AI Infrastructure · Distributed Systems · Fintech
+  Software Engineer | AI Infrastructure & ML Reliability
 </p>
 
 <p align="center">
